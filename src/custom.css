@@ -1,0 +1,4 @@
+.clip-path-custom-curve {
+    clip-path: path("M 0 0 H 100% V 90% Q 50% 100% 0 90% Z");
+  }
+  

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c47ab5af.css",
+    "main.js": "/static/js/main.e51f118a.js",
+    "static/media/img2.jpg": "/static/media/img2.bfb0943bb139a873eb0b.jpg",
+    "static/media/img1.jpg": "/static/media/img1.da54ec161752be4eb176.jpg",
+    "static/media/secondlogo.png": "/static/media/secondlogo.3a9eac8dd482deda6573.png",
+    "index.html": "/index.html",
+    "main.c47ab5af.css.map": "/static/css/main.c47ab5af.css.map",
+    "main.e51f118a.js.map": "/static/js/main.e51f118a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c47ab5af.css",
+    "static/js/main.e51f118a.js"
+  ]
+}
