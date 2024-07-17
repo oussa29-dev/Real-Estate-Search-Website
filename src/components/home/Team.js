@@ -1,4 +1,4 @@
-import img3 from "../assets/home/img3.png";
+import img3 from "../../assets/home/img3.png";
 
 const Team = () => {
   return (
