@@ -1,8 +1,8 @@
-import logo from "/home/oussama/Documents/trouve/src/assets/home/logo.png";
-import call from "/home/oussama/Documents/trouve/src/assets/home/call.png";
-import mail from "/home/oussama/Documents/trouve/src/assets/home/mail.png";
-import maintain from "/home/oussama/Documents/trouve/src/assets/home/maintain.png";
-import services from "/home/oussama/Documents/trouve/src/assets/home/services.png";
+import logo from "../assets/home/logo.png";
+import call from "../assets/home/call.png";
+import mail from "../assets/home/mail.png";
+import maintain from "../assets/home/maintain.png";
+import services from "../assets/home/services.png";
 
 const Contact = () => {
   return (
