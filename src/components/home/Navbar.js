@@ -1,8 +1,8 @@
 import React from 'react';
-import logo from "../assets/home/logo.png";
+import logo from "../../assets/home/logo.png";
 import { Link } from "react-router-dom";
-import toggle from "../assets/home/toggle.png";
-import secondlogo from "../assets/home/secondlogo.png";
+import toggle from "../../assets/home/toggle.png";
+import secondlogo from "../../assets/home/secondlogo.png";
 
 const Navbar = ({ menuOpen, handleToggle }) => {
   return (
