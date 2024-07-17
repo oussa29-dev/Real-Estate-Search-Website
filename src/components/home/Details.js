@@ -1,4 +1,4 @@
-import img2 from "../assets/home/img2.jpg";
+import img2 from "../../assets/home/img2.jpg";
 
 const Details = () => {
   return (
