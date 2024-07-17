@@ -1,8 +1,8 @@
-import logo from "../assets/home/logo.png";
-import call from "../assets/home/call.png";
-import mail from "../assets/home/mail.png";
-import maintain from "../assets/home/maintain.png";
-import services from "../assets/home/services.png";
+import logo from "../../assets/home/logo.png";
+import call from "../../assets/home/call.png";
+import mail from "../../assets/home/mail.png";
+import maintain from "../../assets/home/maintain.png";
+import services from "../../assets/home/services.png";
 
 const Contact = () => {
   return (
