@@ -1,6 +1,6 @@
 import React from 'react';
-import bluecall from "../assets/home/bluecall.png";
-import bluemail from "../assets/home/bluemail.png";
+import bluecall from "../../assets/home/bluecall.png";
+import bluemail from "../../assets/home/bluemail.png";
 import { Link } from "react-router-dom";
 
 const List = ({ cardRef }) => {
