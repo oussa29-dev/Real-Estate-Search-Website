@@ -1,10 +1,10 @@
 import React, { useState, useRef, useEffect } from "react";
-import Navbar from "/home/oussama/Documents/trouve/src/components/home/Navbar.js";
-import Description from "/home/oussama/Documents/trouve/src/components/home/Description";
-import Details from "/home/oussama/Documents/trouve/src/components/home/Details";
-import Team from "/home/oussama/Documents/trouve/src/components/home/Team";
-import Contact from "/home/oussama/Documents/trouve/src/components/home/Contact.js";
-import backgroundImage from "/home/oussama/Documents/trouve/src/assets/home/img1.jpg";
+import Navbar from "../components/home/Navbar.js";
+import Description from "../components/home/Description";
+import Details from "../components/home/Details";
+import Team from "../components/home/Team";
+import Contact from "../components/home/Contact.js";
+import backgroundImage from "../assets/home/img1.jpg";
 import List from "../components/home/List";
 
 const Home = () => {
