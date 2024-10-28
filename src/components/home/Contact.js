@@ -49,7 +49,7 @@ const Contact = () => {
               href="IGL_team@gmail.com"
               className=" font-semibold text-sm leading-5 sm:text-base sm:leading-6 lg:leading-8 lg:text-lg underline"
             >
-              IGL_team@gmail.com
+              elemdanilitaksit@gmail.com
             </a>
           </div>
           <div className="flex justify-center gap-3">
@@ -57,7 +57,7 @@ const Contact = () => {
               <img src={call} alt="call" />
             </div>
             <span className="sm:text-base sm:leading-6 text-sm whitespace-nowrap font-semibold leading-5 lg:leading-8 lg:text-lg">
-              +213 541 663 212
+              +213 558000011
             </span>
           </div>
         </div>

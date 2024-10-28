@@ -13,7 +13,7 @@ const Team = () => {
             <img src={img3} alt="person" className="w-36" />
           </div>
           <div className="bg-third-100 flex justify-center items-center h-24">
-            <span className="text-center font-semibold text-xl">name</span>
+            <span className="text-center font-semibold text-xl">Abdelhafid</span>
           </div>
         </div>
 
@@ -22,7 +22,7 @@ const Team = () => {
             <img src={img3} alt="person" className="w-36" />
           </div>
           <div className="bg-third-100 flex justify-center items-center h-24">
-            <span className="text-center">name</span>
+            <span className="text-center">Abdennour</span>
           </div>
         </div>
 
@@ -31,7 +31,7 @@ const Team = () => {
             <img src={img3} alt="person" className="w-36" />
           </div>
           <div className="bg-third-100 flex justify-center items-center h-24">
-            <span className="text-center">name</span>
+            <span className="text-center">Othman</span>
           </div>
         </div>
 
@@ -40,7 +40,7 @@ const Team = () => {
             <img src={img3} alt="person" className="w-36" />
           </div>
           <div className="bg-third-100 flex justify-center items-center h-24">
-            <span className="text-center">name</span>
+            <span className="text-center">Malek</span>
           </div>
         </div>
 
@@ -49,7 +49,7 @@ const Team = () => {
             <img src={img3} alt="person" className="w-36" />
           </div>
           <div className="bg-third-100 flex justify-center items-center h-24">
-            <span className="text-center">name</span>
+            <span className="text-center">Chakib</span>
           </div>
         </div>
       </div>
